@@ -11,9 +11,10 @@ The specifications will be as follows:
 • Entering reports of interventions and their closings.
 • Entry of alarms for preventive interventions.
 
-Work management:
+Management:
 1-Corrections:
 - The issuance of an intervention request until the historization and archiving of the work order:
+
  Step 1: Issuing the work request:
           -Recognition of the failure.
           -Submit the intervention request.
@@ -23,13 +24,14 @@ Work management:
  Step 3: Transformation into a work order
  Step 4: Distribution and transfer to the executing departments.
  Step 5: Report of the intervention:
--Writing of the report.
+
 - Duration of intervention.
 -Spare parts used.
--Date and start of work and end of work.
+-Date and start and end of intervention.
 -Number of technicians intervening.
-           2-Preventive maintenance:
-A preventive maintenance schedule must be drawn up on an annual, biannual, quarterly or monthly frequency by the maintenance department, recording the equipment market hours.
+
+2-Preventive maintenance:
+A preventive maintenance schedule must be drawn up on an annual, biannual, quarterly or monthly frequency by the maintenance department, recording the equipment business hours.
 This sub-module should mainly allow:
 - Historical consultation of interventions.
 - Definition of parameters and thresholds of reliability and maintainability of interventions.
